@@ -169,7 +169,15 @@ except AnagramaError as error:
     print(error)
 ```
 
+# Desarrollo Segundo Item:
+En este caso simplemente se establecieron las excepciones necesarias con sus comentarios respectivos. Se utilizó la forma #1 del ejericio en Shape del reto 05, es decir todo modulado en un solo paquete. EL código se encuentra en los archivos subidos al repositorio, para no saturar el README de código.
 
+### Correr el código:
+Para poder correr este código ejecute el siguiente comando en la terminal de Visual:
+
+```python
+python -m Shape.main
+```
 
 
 
